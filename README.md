@@ -32,8 +32,7 @@ There is a significant increase in quantities sold when items are discounted.
 ### result:
 There is enough evidence to reject the null hypothesis given an alpha of 0.05 for discounts of 5%, 10%, 15%, 20% and 25%
 
-![Image1]
-(http://localhost:8890/files/Documents/CourseMaterial/module3project/dsc-mod-3-project-online-ds-sp-000/DistPlots/Q1.png)
+![](DistPlots/Q1.png)
 
 ### null hypothesis: 
 There is not a significant difference in sales revenue per item when discounted.
