@@ -69,6 +69,8 @@ There is not enough evidence to reject the null hypothesis given an alpha of 0.0
 
 [Northwind_ERD](Northwind_ERD.png)
 
+[Summary_Slides](Module3SummarySlides.pdf)
+
 [Blog_Post](https://medium.com/@stacyshingleton/hypothesis-testing-within-the-northwind-database-50d744c1640e)
 
 
