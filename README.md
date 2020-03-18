@@ -62,3 +62,13 @@ There is not enough evidence to reject the null hypothesis given an alpha of 0.0
 ![](DistPlots/Q4.png)
 
 
+
+## Table of Contents
+
+[Jupyter_Notebook](Module3Project.ipynb)
+
+[Northwind_ERD](Northwind_ERD.png)
+
+[Blog_Post](https://medium.com/@stacyshingleton/hypothesis-testing-within-the-northwind-database-50d744c1640e)
+
+
