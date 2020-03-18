@@ -41,6 +41,7 @@ There is a significant difference in sales revenue per item when discounted.
 ### result:
 There is not enough evidence to reject the null hypothesis given an alpha of 0.05.
 
+![](DistPlots/Q2.png)
 
 ### null hypothesis: 
 The region of the customer has no significant effect on quantities per order.
@@ -49,6 +50,7 @@ The region of the customer has a significant effect on quantities per order.
 ### result:
 There is not enough evidence to reject the null hypothesis given an alpha of 0.05.
 
+![](DistPlots/Q3.png)
 
 ### null hypothesis: 
 The region of the sales representative has no significant effect on quantities per order.
@@ -56,5 +58,7 @@ The region of the sales representative has no significant effect on quantities p
 The region of the sales representative has a significant effect on quantities per order.
 ### result:
 There is not enough evidence to reject the null hypothesis given an alpha of 0.05.
+
+![](DistPlots/Q4.png)
 
 
